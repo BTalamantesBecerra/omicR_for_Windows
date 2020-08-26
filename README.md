@@ -17,6 +17,6 @@ Requirements:
 BLAST+ latest version: https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ 
 Installation: 
 You can retrieve the scripts from Github: https://github.com/BTalamantesBecerra/omicR 
-There are 2 options to run omicR in windows. 
-1)	Option 1. Download the zip directory “omicR.zip“.  Unzip this directory and double click the executable file “omicR.exe” with the image of the green parrot. This will open a window where you can run the scripts. You do not need to install anything as everything is compiled into this file and you can start running your analysis. 
+
+Download the zip directory “omicR.zip“.  Unzip this directory and double click the executable file “omicR.exe” with the image of the green parrot. This will open a window where you can run the scripts. You do not need to install anything as everything is compiled into this file and you can start running your analysis. 
 
