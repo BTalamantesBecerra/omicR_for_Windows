@@ -15,7 +15,7 @@ Requirements: BLAST+ latest version: https://ftp.ncbi.nlm.nih.gov/blast/executab
 
 Download the zip directory “omicR.zip“.  Unzip this directory and double click the executable file “omicR.exe” with the image of the green parrot. This will open a window where you can run the scripts. You do not need to install anything as everything is compiled into this file and you can start running your analysis. 
 
+TUTORIAL TO DOWNLOAD THIS SCRIPT (~1.5 min) https://youtu.be/19zn7WoKtbg
 
-
-Tutorial to use this scripts (~20 min): https://youtu.be/pdMio2vj-FM 
+TUTORIAL TO USE THIS SCRIPT (~20 min): https://youtu.be/pdMio2vj-FM 
 
