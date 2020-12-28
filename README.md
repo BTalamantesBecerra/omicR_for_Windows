@@ -19,3 +19,4 @@ TUTORIAL TO DOWNLOAD THIS SCRIPT (~1.5 min) https://youtu.be/19zn7WoKtbg
 
 TUTORIAL TO USE THIS SCRIPT (~20 min): https://youtu.be/pdMio2vj-FM 
 
+For usage, please refer to the file "OmicR_User_guide.pdf" available in this repository.
